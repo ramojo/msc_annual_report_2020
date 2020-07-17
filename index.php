@@ -221,7 +221,7 @@ div.copyright {
 				<li><p>Discuss the report with your supervisors.</p></li>
 				<li><p>.Ask your supervisors to complete, sign and date their respective part (PART 2: <em>icipe</em> Supervisor; PART 3: University Supervisor), and return to you by <u>August 7th 2020</u>. </p></li>
 				<li><p>Compile all parts of the report (PARTs 1, 2 and 3) into a single Word document.</p></li>
-				<li><p>Upload the completed report <a href="http://cbid.icipe.org/apps/cbid/forms/msc_annual_report_2020.php">HERE</a> by <u>August 14th 2020</u>.</p></li>
+				<li><p>Upload the completed report <a href="http://cbid.icipe.org/apps/cbid/forms/msc_annual_report_2020.php"><b>HERE</b></a> by <u>August 14th 2020</u>.</p></li>
 	</ol>
 
 				<div class=page-header style="center">
